@@ -3,7 +3,7 @@
 ## Install locally
 
 1. **Clone / download** this repo, then open Chromee at `chrome://extensions/`
-2. Enable **Developer mode** (top-right toggle) → **Load unpacked** → select the folder.
+2. Enable **Developer mode** (top-right toggle) → click **Load unpacked** (top-left button) → select the folder from your computer.
 3. The extension icon (<img src="favicon-32x32.png" width="18"/>) will appear in your toolbar.  
    Pin it if you want quick access.
 4. The first time you click the icon Chrome will ask to “Allow this extension to debug the browser.”  
