@@ -1,4 +1,4 @@
-# YouTube Video → ChatGPT Summary in one click
+# YouTube Video → ChatGPT Summary (one-click)
 
 ## Install locally
 
