@@ -1,0 +1,26 @@
+{
+  "manifest_version": 3,
+  "name": "YouTube Transcript ChatGPT (One click)",
+  "version": "4.3",
+  "description": "Grab transcript, build summarization prompt, open ChatGPT, paste & send single click.",
+  "permissions": [
+    "scripting",
+    "activeTab",
+    "tabs",
+    "debugger"
+  ],
+  "host_permissions": [
+    "https://www.youtube.com/*",
+    "https://chat.openai.com/*",
+    "https://chatgpt.com/*"
+  ],
+  "action": {
+    "default_icon": {
+      "16": "favicon-16x16.png",
+      "32": "favicon-32x32.png"
+    }
+  },
+  "background": {
+    "service_worker": "bg.js"
+  }
+}
