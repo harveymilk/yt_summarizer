@@ -14,8 +14,7 @@
 ## Using it
 
 1. Open any YouTube video (make sure it has a transcript).
-2. Click the extension icon.  
-   *That’s it:* a ChatGPT tab pops up, the formatted prompt appears, and the message is sent :)
+2. Click the extension icon and... *That’s it:* a ChatGPT tab pops up, the formatted prompt appears, and the message is sent :)
 
 ---
 
